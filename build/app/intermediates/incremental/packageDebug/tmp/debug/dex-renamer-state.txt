@@ -1,0 +1,4 @@
+#Thu Oct 29 10:26:27 CET 2020
+base.0=C\:\\Users\\lewma\\Mex\\labs\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
